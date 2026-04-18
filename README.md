@@ -1,19 +1,34 @@
 # E-Commerce Sales Analytics Dashboard
-projekt analizy e-commerce
-Źródło danych: https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset
+---
 
 Projekt polegał na zaprojektowaniu i wdrożeniu kompletnego pipeline’u przetwarzania danych – od surowych danych źródłowych aż po warstwę wizualizacji i raportowania.
+
+---
+Źródło danych: https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset
+---
+
+## Użyte Technologie
+
+* Python
+* pandas
+* scikit-learn
+* seaborn / matplotlib
+
+Projekt obejmuje:
+
+integrację danych z danego źródła ,
+modelowanie relacyjnej bazy danych,
+tworzenie zapytań SQL do przetwarzania danych,
+budowę warstwy wizualnej i raportowej w Power BI.
+---
+
+## Etapy projektu
 
 Proces rozpoczął się od danych zapisanych w plikach Excel, które zostały poddane wstępnemu czyszczeniu oraz ustrukturyzowaniu. Następnie dane zostały załadowane do relacyjnej bazy danych przy użyciu narzędzia Oracle SQL Developer, gdzie zaprojektowano schemat bazy oraz wykonano operacje transformacji (m.in. filtrowanie, agregacje, łączenia tabel).
 
 Kolejnym etapem było podłączenie bazy danych do narzędzia Microsoft Power BI, w którym przygotowano interaktywny dashboard. Dashboard umożliwia analizę danych poprzez dynamiczne wizualizacje, takie jak wykresy, tabele i wskaźniki KPI, wspierające podejmowanie decyzji.
 
-Projekt obejmował:
 
-integrację danych z różnych źródeł (Excel → SQL),
-modelowanie relacyjnej bazy danych,
-tworzenie zapytań SQL do przetwarzania danych,
-budowę warstwy wizualnej i raportowej w Power BI.
 
 Efektem końcowym jest spójny system analityczny, który przekształca surowe dane w czytelne i użyteczne informacje biznesowe.
 
