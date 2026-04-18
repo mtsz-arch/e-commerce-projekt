@@ -16,4 +16,7 @@ tworzenie zapytań SQL do przetwarzania danych,
 budowę warstwy wizualnej i raportowej w Power BI.
 
 Efektem końcowym jest spójny system analityczny, który przekształca surowe dane w czytelne i użyteczne informacje biznesowe.
+
+ Baza danych
+   Schemat relacyjny tabel
 <img width="1411" height="691" alt="obraz" src="https://github.com/user-attachments/assets/b4c316d2-b990-40a3-8140-e3ea91f021db" />
